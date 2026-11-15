@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.miamiautoglassrepair.com/sitemap.xml
